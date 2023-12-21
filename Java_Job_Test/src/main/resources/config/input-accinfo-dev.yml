@@ -1,0 +1,18 @@
+acc:
+  abcDebitAccBO:
+    accNo: 123456
+    accName: 张三
+    accCertNo: 111
+    accMobileNo: 123
+
+  abcCreditAccBO:
+    accNo: 123457
+    accName: 张三
+    accCertNo: 111
+    accMobileNo: 123
+
+  otherBankAccBO:
+    accNo: 123458
+    accName: 张三
+    accCertNo: 111
+    accMobileNo: 123
