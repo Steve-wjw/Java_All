@@ -17,6 +17,7 @@
     <modules>
         <module>Java_Redis</module>
         <module>Java_Job_Test</module>
+        <module>Java_Review</module>
     </modules>
 
     <packaging>pom</packaging>
@@ -45,7 +46,6 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.12</version>
-            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
