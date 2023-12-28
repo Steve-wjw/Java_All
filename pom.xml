@@ -19,6 +19,7 @@
         <module>Java_Job_Test</module>
         <module>Java_Review</module>
         <module>Java_Kafka</module>
+        <module>Java_ES</module>
     </modules>
 
     <packaging>pom</packaging>
