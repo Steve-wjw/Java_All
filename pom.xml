@@ -20,6 +20,8 @@
         <module>Java_Review</module>
         <module>Java_Kafka</module>
         <module>Java_ES</module>
+        <module>Java_RabbitMQ</module>
+        <module>Java_SpringBoot</module>
     </modules>
 
     <packaging>pom</packaging>
