@@ -24,6 +24,7 @@
         <module>Java_Actual_Combat</module>
         <module>Java_Dubbo_Zookeeper_Provider</module>
         <module>Java_Dubbo_Zookeeper_Consumer</module>
+        <module>Java_Netty</module>
     </modules>
 
     <packaging>pom</packaging>
